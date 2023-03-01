@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeanSceneWebAPI", "BeanSceneWebAPI\BeanSceneWebAPI.csproj", "{C8C35839-9C77-4631-9E96-0D93451F93BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C35839-9C77-4631-9E96-0D93451F93BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C35839-9C77-4631-9E96-0D93451F93BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C35839-9C77-4631-9E96-0D93451F93BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C35839-9C77-4631-9E96-0D93451F93BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9261075-922C-47D4-8BB4-9261357B88B6}
+	EndGlobalSection
+EndGlobal
